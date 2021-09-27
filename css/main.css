@@ -1,0 +1,81 @@
+#navbar{
+    background: url(../img/abajo.png);
+    background-repeat: no-repeat;
+    background-position: bottom center, center center;
+    background-size: 100%, auto;
+    font-size: 18px;
+    
+    
+    }
+
+section{
+    background: url(../img/elgif2.gif);
+    background-size: 100%;
+    text-align: center;
+    font-family: monospace;
+    font-size: 130%;
+}
+
+h1{
+    color: white;
+    font-size: 45px;
+}
+
+h2{
+    color:greenyellow;
+    text-align: center;
+}
+
+h3{
+    color: darkorange;
+    text-align: center;
+}
+
+h4{
+    color: deepskyblue;
+    text-align: center;
+}
+
+h5{
+    color:yellow;
+}
+
+a{
+  
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color:yellow;
+}
+
+#footer{
+    background: url(../img/abajo.png);
+    background-repeat: repeat;
+    background-position: bottom center, center center;
+    background-size: 140%, auto;
+    text-align: center;
+}
+
+.boton2{
+    background: url(../img/inicio2.png);
+    background-position: center, center;
+    background-repeat: no-repeat;
+    background-size: 140%;
+    height: 75px;
+    width: 75px;
+    border-bottom-left-radius: 45%;
+    border-bottom-right-radius: 45%;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+}
+
+.img{
+    width: 100%;
+    height: 90%;
+}
